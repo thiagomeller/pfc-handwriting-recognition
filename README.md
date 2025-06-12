@@ -3,5 +3,6 @@ Este trabalho tem como objetivo investigar e aplicar tecnologias de inteligênci
 
 <hr/>
 Referências
-[Youtube](https://www.youtube.com/watch?v=Ixm_yQYK09E)
-[Github](https://github.com/pythonlessons/mltu/tree/main/Tutorials)
+
+  * [Youtube](https://www.youtube.com/watch?v=Ixm_yQYK09E)
+  * [Github](https://github.com/pythonlessons/mltu/tree/main/Tutorials)
